@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+
+#bodybrown {
+	border: 20px solid #E1C38F;
+	background-color: #FFF;
+}
+#copyright {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: right;
+	font-family: "Open Sans";
+	font-size: 11px;
+	font-weight:300;
+	color: #000;
+}
+#image {
+	background-color: #FFF;
+}
+h1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 28px;
+	font-style: normal;
+	font-weight: lighter;
+	color: #000;
+}
+h3 {
+	font-family: "Open Sans";
+	font-size: 14px;
+	color:#000;
+	font-style: normal;
+	font-weight:400;
+	text-align: left;
+}
+.sidebar {
+	background-color: #FFF;
+	width: 200px;
+	height: 700px;
+}
+h2 {
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: lighter;
+	color: #000;
+}
+h4 {
+	font-family: "Open Sans";
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 600;
+	color: #000;
+	text-align: center;
+}
